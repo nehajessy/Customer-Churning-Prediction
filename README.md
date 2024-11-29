@@ -1,5 +1,3 @@
-# README.md
-
 # Customer Churn Prediction
 
 This project demonstrates the process of predicting customer churn using various machine learning algorithms. The dataset used is **Churn Modeling.csv**, which contains information about customers, including demographics, account details, and whether they exited (churned).
